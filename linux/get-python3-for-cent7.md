@@ -2,7 +2,7 @@
 
 python2 is the default version for cent7, but python3 is highly preferred one, so we need install python3 for cent7.
 
-note: we don't delete the python2, because so tools in cent7 is build on it, like yum
+note: we don't delete the python2, because some tools in cent7 is build on it, like yum
 
 first, check the version we had:
 > yum search python3
